@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Bruno Freixo
 
-<!--
-**Freixo88/Freixo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Power BI](https://img.shields.io/badge/Power%20BI-FF9900?style=flat-square&logo=microsoft-power-bi&logoColor=white)
+![Status](https://img.shields.io/badge/status-Learning-blue?style=flat-square)
+![Location](https://img.shields.io/badge/location-Barreiro,%20Portugal-0077B5?style=flat-square)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Freixo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-freixo-2a28b7147)
+[![Email](https://img.shields.io/badge/Email-brunofreixo88@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brunofreixo88@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+I’m a self-driven data enthusiast making a career transition into tech.  
+My background is diverse, but my focus is now 100% on growing in analytics and business intelligence.  
+I believe in learning by doing and sharing progress along the way.
+
+---
+
+Thanks for visiting! Feel free to connect with me or check out my projects 🚀
